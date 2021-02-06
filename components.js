@@ -1,5 +1,5 @@
 
 module.exports = {
-  componentA: "I am componentA!",
+  componentA: "I am componentAlpha!",
   componentB: "I am componentB!"
  }
