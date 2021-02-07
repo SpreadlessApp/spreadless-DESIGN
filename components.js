@@ -1,5 +1,5 @@
 
 module.exports = {
-  componentA: "I am componentAlpha!",
-  componentB: "I am componentB!"
+  componentA: "I am component-Alpha!",
+  componentB: "I am component-Bravvvo!"
  }
